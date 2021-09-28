@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "post one update",
+      "content": "This is post one update."
+    },
+    {
+      "id": 2,
+      "title": "post two",
+      "content": "This is post two."
+    },
+    {
+      "title": "post three",
+      "content": "Post three",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
